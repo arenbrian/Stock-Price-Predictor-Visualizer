@@ -1,24 +1,38 @@
-# Stock-Price-Predictor-Visualizer
-This app will predict the next days stock price and show you visuals up to 5 years on the stocks movement
-Libaries used are:
-- Numpy
-- Pandas
-- Scikit-Learn
-- Streamlit
-- Matlib
+# STOCK PRICE PREDICTOR & VISUALIZER
 
---- How to run ---
+This app predicts the next day's stock price and shows visuals of the stock’s movement for up to 5 years.
 
-# Create a virtual environment in terminal
-In terminal type python -m venv venv
+# LIBRARIES USED
 
-# Activate virtual environment in terminal
-In terminal type source venv/bin/activate
+Numpy
 
-# Download all libraries
-In terminal type pip install r -requirements.txt
+Pandas
 
-# Run the application
-In terminal type streamlit run app.py
+Scikit-Learn
 
-ENJOY !!
+Streamlit
+
+Matplotlib
+
+# HOW TO RUN
+
+Create a virtual environment
+In terminal:
+python -m venv venv
+
+Activate the virtual environment
+In terminal:
+source venv/bin/activate
+
+Install all required libraries
+In terminal:
+pip install -r requirements.txt
+
+Run the application
+In terminal:
+streamlit run app.py
+
+ENJOY!
+
+This project uses machine learning to predict stock prices and visualize trends with easy-to-read charts.
+It’s a simple and clean tool to explore market movement and see future price predictions.
