@@ -14,6 +14,8 @@ Streamlit
 
 Matplotlib
 
+Yfinance
+
 # HOW TO RUN
 
 Create a virtual environment
