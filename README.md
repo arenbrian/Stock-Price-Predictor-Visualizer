@@ -18,19 +18,19 @@ Yfinance
 
 # HOW TO RUN
 
--Create a virtual environment-
+Create a virtual environment
 In terminal:
 python -m venv venv
 
--Activate the virtual environment-
+Activate the virtual environment
 In terminal:
 source venv/bin/activate
 
--Install all required libraries-
+Install all required libraries
 In terminal:
 pip install -r requirements.txt
 
--Run the application-
+Run the application
 In terminal:
 streamlit run app.py
 
