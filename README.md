@@ -1,6 +1,6 @@
 # STOCK PRICE PREDICTOR & VISUALIZER
-
-This app predicts the next day's stock price and shows visuals of the stock’s movement for up to 5 years.
+This project uses a machine learning to predict stock prices with an easy-to-read chart.
+It’s a simple and clean tool to explore market movement and see future price predictions.
 
 # LIBRARIES USED
 
@@ -33,6 +33,3 @@ In terminal:
 streamlit run app.py
 
 ENJOY!
-
-This project uses machine learning to predict stock prices and visualize trends with easy-to-read charts.
-It’s a simple and clean tool to explore market movement and see future price predictions.
